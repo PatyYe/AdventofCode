@@ -1,0 +1,1 @@
+$content = Get-Content $PSScriptRoot\input.txt
