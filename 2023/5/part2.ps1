@@ -1,3 +1,6 @@
+<#
+Code works but execution time is to long when doing LOTS of seeds.
+#>
 $content = Get-Content $PSScriptRoot\input.txt
 
 function MapPart {
